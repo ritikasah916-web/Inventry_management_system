@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html><html><head><meta charset="utf-8"><title>Inventory Management System</title><style>body{font-family:Segoe UI,Arial,sans-serif;max-width:960px;margin:30px auto;padding:0 16px;line-height:1.6}pre{background:#f4f4f4;padding:12px;border-radius:6px;overflow:auto}table{border-collapse:collapse}td,th{border:1px solid #ccc;padding:6px 10px}img{max-width:100%;border:1px solid #ddd;border-radius:6px}</style></head><body><h1>Inventory Management System</h1>
 <p>A RESTful backend application developed using Node.js, Express.js, MongoDB, and Mongoose to manage product inventory efficiently.</p>
 <h2>Project Overview</h2>
@@ -297,3 +298,6 @@ MONGO_URI=mongodb://127.0.0.1:27017/InventoryDB
 <p><strong>Siya Singh</strong></p>
 <p>B.Tech – Computer Science and Engineering (AI &amp; ML)</p>
 <p>K.R. Mangalam University</p></body></html>
+=======
+# Inventry_management_system
+>>>>>>> origin/main
